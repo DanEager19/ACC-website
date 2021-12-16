@@ -1,2 +1,2 @@
 # ACC-website
-No
+Uses Bootstrap, Petite-Vue, and Firebase (probably).
